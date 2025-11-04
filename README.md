@@ -31,12 +31,4 @@ The CodePlay is built using the following technologies:
 #### Razorpay
     - Payment Gateway.
 #### MongoDB
-    - Database.
-
-## Acknowledgements
-
-The CodePlay was created by Vishwash Patel. Special thanks to Love Babbar Bhaiya and CodeHelp.
-
-## Contact
-
-If you have any questions or suggestions regarding this project, please feel free to contact Email - vishwashp3053@gmail.com.    
+    - Database.  
